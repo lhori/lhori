@@ -1,6 +1,6 @@
 ### Hi there!! <br>
 🌱 I’m currently learning software engineering in Canadian college. <br>
-🎯 Current Skill of Knowledge: C, C++, C#, HTML, CSS, JavaScript, MySQL
+🎯 Current Skill of Knowledge: C, C++, C#, HTML, CSS, JavaScript, PHP, MySQL
 
 <!--
 **lhori/lhori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
